@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://swreinigung-koeln.pages.dev/sitemap.xml
+Sitemap: https://swreinigung-berlin-55c90699357e.herokuapp.com/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
