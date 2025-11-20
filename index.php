@@ -8,7 +8,7 @@ header('X-Frame-Options: SAMEORIGIN');
 $pageTitle = "7 Entscheidende Faktoren bei der Wahl einer Gebäudereinigung in Berlin";
 $metaDescription = "Entdecken Sie die 7 wichtigsten Faktoren für professionelle Gebäudereinigung in Berlin. Erfahren Sie, wie Qualität und Hygiene Ihr Unternehmen erfolgreich machen.";
 $keywords = "Gebäudereinigung Berlin, professionelle Reinigungsdienste, Büroreinigung, Glasreinigung, Unterhaltsreinigung, Reinigungsfirma Berlin, Gebäudeservice";
-$canonicalUrl = ""; // Set your URL here
+$canonicalUrl = "https://swreinigung-berlin-55c90699357e.herokuapp.com/"; // Set your URL here
 $publishDate = date('Y-m-d');
 $modifiedDate = date('Y-m-d');
 
